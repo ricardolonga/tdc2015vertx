@@ -1,6 +1,6 @@
 package br.com.ricardolonga.unit;
 
-import br.com.ricardolonga.PingVerticle;
+import br.com.ricardolonga.tdc2015vertx.ApplicationServer;
 import org.junit.Test;
 
 /*
@@ -24,8 +24,6 @@ public class ExampleUnitTest {
 
   @Test
   public void testVerticle() {
-    PingVerticle vert = new PingVerticle();
-
-    // do something with verticle
+    ApplicationServer vert = new ApplicationServer();
   }
 }
