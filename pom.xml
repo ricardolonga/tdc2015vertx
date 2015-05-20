@@ -53,18 +53,6 @@
     </properties>
 
     <dependencies>
-        <!-- When -->
-        <!--<dependency>-->
-            <!--<groupId>com.englishtown</groupId>-->
-            <!--<artifactId>vertx-mod-when</artifactId>-->
-            <!--<version>3.0.1</version>-->
-        <!--</dependency>-->
-        <!--<dependency>-->
-            <!--<groupId>javax.inject</groupId>-->
-            <!--<artifactId>javax.inject</artifactId>-->
-            <!--<version>1</version>-->
-        <!--</dependency>-->
-
         <!-- RxJava -->
         <dependency>
             <groupId>io.vertx</groupId>

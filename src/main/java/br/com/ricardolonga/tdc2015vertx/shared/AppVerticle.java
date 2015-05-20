@@ -1,5 +1,6 @@
-package br.com.ricardolonga.tdc2015vertx;
+package br.com.ricardolonga.tdc2015vertx.shared;
 
+import io.vertx.rxcore.java.eventbus.RxEventBus;
 import org.vertx.java.core.AsyncResult;
 import org.vertx.java.core.Handler;
 import org.vertx.java.core.eventbus.EventBus;
